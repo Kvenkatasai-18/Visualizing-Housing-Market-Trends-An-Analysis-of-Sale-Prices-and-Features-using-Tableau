@@ -1,0 +1,17 @@
+ 
+Dashboard :
+
+        1.https://public.tableau.com/views/Visualizehousingsales1/dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+        2.https://public.tableau.com/views/Visualizehousingsales1/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+        3.https://public.tableau.com/views/Visualizehousingsales1/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+        4.https://public.tableau.com/views/VisualizingHousingsales2/Dashboard6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+Story :
+
+         1.https://public.tableau.com/views/VisualizingHousingsales2/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+         2.https://public.tableau.com/views/Visualizehousingsales1/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link

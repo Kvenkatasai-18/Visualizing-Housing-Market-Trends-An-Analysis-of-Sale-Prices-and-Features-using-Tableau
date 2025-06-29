@@ -1,0 +1,42 @@
+CREATE TABLE house_sales (
+    Sale_Price INT,
+    No_of_Bedrooms INT,
+    No_of_Bathrooms FLOAT,
+    Flat_Area_in_Sqft INT,
+    Lot_Area_in_Sqft INT,
+    No_of_Floors FLOAT,
+    No_of_Times_Visited INT,
+    Overall_Grade INT,
+    Area_from_Basement_Sqft INT,
+    Basement_Area_Sqft INT,
+    Age_of_House_Years INT,
+    Latitude FLOAT,
+    Longitude FLOAT,
+    Living_Area_after_Renovation_Sqft INT,
+    Lot_Area_after_Renovation_Sqft INT,
+    Years_Since_Renovation INT,
+    Condition_Excellent TINYINT,
+    Condition_Fair TINYINT,
+    Condition_Good TINYINT,
+    Condition_Okay TINYINT,
+    Ever_Renovated_Yes TINYINT,
+    Waterfront_View_Yes TINYINT,
+    Zipcode_Group_1 TINYINT,
+    Zipcode_Group_2 TINYINT,
+    Zipcode_Group_3 TINYINT,
+    Zipcode_Group_4 TINYINT,
+    Zipcode_Group_5 TINYINT,
+    Zipcode_Group_6 TINYINT,
+    Zipcode_Group_7 TINYINT,
+    Zipcode_Group_8 TINYINT,
+    Zipcode_Group_9 TINYINT
+);
+
+
+LOAD DATA LOCAL INFILE 'C:/Users/Nagendra/Documents/House_sales_Dataset.csv'
+INTO TABLE house_sales
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\n' 
+IGNORE 1 ROWS;
+
